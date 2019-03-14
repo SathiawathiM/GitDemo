@@ -46,6 +46,9 @@ public class loginClickTest extends base
 		
 		log.info("Successfully sent the login credentials");
 		
+		System.out.println("Login Automaion ");
+		System.out.println("Click Automation");
+		
 	}
 	
 	@AfterTest
