@@ -34,6 +34,9 @@ public class HomeTest extends base
 		
 		Assert.assertTrue(hp.getCntct().isDisplayed());
 		
+		System.out.println("post Jira 1");
+		System.out.println("Post jira 2");
+		
 	}
 	
 	@AfterTest
